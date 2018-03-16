@@ -1,0 +1,14 @@
+D:\Computer Science\ainsleyharriot\ainsleyharriot\bin\Release\ainsleyharriot.exe.config
+D:\Computer Science\ainsleyharriot\ainsleyharriot\obj\Release\Interop.WMPLib.dll
+D:\Computer Science\ainsleyharriot\ainsleyharriot\obj\Release\AxInterop.WMPLib.dll
+D:\Computer Science\ainsleyharriot\ainsleyharriot\obj\Release\ainsleyharriot.csproj.ResolveComReference.cache
+D:\Computer Science\ainsleyharriot\ainsleyharriot\bin\Release\ainsleyharriot.exe
+D:\Computer Science\ainsleyharriot\ainsleyharriot\bin\Release\ainsleyharriot.pdb
+D:\Computer Science\ainsleyharriot\ainsleyharriot\bin\Release\Interop.WMPLib.dll
+D:\Computer Science\ainsleyharriot\ainsleyharriot\bin\Release\AxInterop.WMPLib.dll
+D:\Computer Science\ainsleyharriot\ainsleyharriot\obj\Release\ainsleyharriot.Form1.resources
+D:\Computer Science\ainsleyharriot\ainsleyharriot\obj\Release\ainsleyharriot.Properties.Resources.resources
+D:\Computer Science\ainsleyharriot\ainsleyharriot\obj\Release\ainsleyharriot.csproj.GenerateResource.Cache
+D:\Computer Science\ainsleyharriot\ainsleyharriot\obj\Release\ainsleyharriot.exe
+D:\Computer Science\ainsleyharriot\ainsleyharriot\obj\Release\ainsleyharriot.pdb
+D:\Computer Science\ainsleyharriot\ainsleyharriot\obj\Release\ainsleyharriot.csprojResolveAssemblyReference.cache
